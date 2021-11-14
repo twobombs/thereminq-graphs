@@ -7,12 +7,12 @@ This repo contains Images made with
 Many, many thanks go out to the lead developers of both projects for making this possible and for enduring all my questions.
 <br>
 
-The data used for pictures below are generated with buildscripts in qracknet 
+The data used for the images below are generated with buildscripts in qracknet 
 - Qrack QFT, also used at runtime https://github.com/twobombs/qracknet/blob/master/buildscripts/maketipsy.sh
 - Sycamore 28q14d https://github.com/twobombs/qracknet/blob/master/buildscripts/supreme28q14d.sh 
 <br>
 
-Tipsy files can be downloaded and can be explored with a Tipsy file format viewer
+Pre-cooked Tipsy files can be downloaded and explored with a Tipsy file format viewer
 - QFT24Qube15M.tar.gz : https://drive.google.com/file/d/1uMVGhYGk4anb66L1l0uYfmafHPaWB3A_/view?usp=sharing
 - Sycamore28q14d10M.tar.gz : https://drive.google.com/file/d/1LghA6i_LsXSqCltaWRMRJ17Bhtfh30Fe/view?usp=sharing 
 <br>

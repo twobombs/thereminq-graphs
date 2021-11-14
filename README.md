@@ -5,11 +5,21 @@ This repo contains Images made with
 - Bonsai https://github.com/treecode/Bonsai
 
 Many, many thanks go out to the lead developers of both projects for making this possible and for enduring all my questions.
+<br>
+
+The data used for pictures below are generated with buildscripts in qracknet 
+- Qrack QFT, also used at runtime https://github.com/twobombs/qracknet/blob/master/buildscripts/maketipsy.sh
+- Sycamore 28q14d https://github.com/twobombs/qracknet/blob/master/buildscripts/supreme28q14d.sh 
+<br>
 
 Tipsy files can be downloaded and can be explored with a Tipsy file format viewer
 - QFT24Qube15M.tar.gz : https://drive.google.com/file/d/1uMVGhYGk4anb66L1l0uYfmafHPaWB3A_/view?usp=sharing
-- Sycamore28q14d10M.tar.gz : https://drive.google.com/file/d/1LghA6i_LsXSqCltaWRMRJ17Bhtfh30Fe/view?usp=sharing
+- Sycamore28q14d10M.tar.gz : https://drive.google.com/file/d/1LghA6i_LsXSqCltaWRMRJ17Bhtfh30Fe/view?usp=sharing 
+<br>
 [more to follow]
+
+<br>
+
 
 ![Screenshot from 2021-11-10 11-49-14](https://user-images.githubusercontent.com/12692227/141675931-191aa5c5-b91c-4cc9-9faf-dfc9df5b6dea.png)
 ![Screenshot from 2021-11-10 11-49-20](https://user-images.githubusercontent.com/12692227/141675933-7424d431-97a2-4338-8c2f-8d97e70381bf.png)

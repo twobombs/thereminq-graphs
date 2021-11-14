@@ -1,4 +1,4 @@
-# qracknet-graphs
+# thereminq-graphs
 
 This repo contains Images made with
 - Qrack https://github.com/vm6502q/qrack

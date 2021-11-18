@@ -1,6 +1,7 @@
 # thereminq-graphs
 
-This repo contains Images made with
+This repo contains Images made with 
+- TereminQ https://github.com/twobombs/thereminq
 - Qrack https://github.com/vm6502q/qrack
 - Bonsai https://github.com/treecode/Bonsai
 

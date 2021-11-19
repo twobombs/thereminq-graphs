@@ -1,11 +1,12 @@
 # thereminq-graphs
 
-This repo contains Images made with 
+This repo contains images made with 
 - TereminQ https://github.com/twobombs/thereminq
+
+Many, many thanks go out to the lead developers of Qrack and Bonsai for making this possible and for enduring all my questions.
 - Qrack https://github.com/vm6502q/qrack
 - Bonsai https://github.com/treecode/Bonsai
 
-Many, many thanks go out to the lead developers of both projects for making this possible and for enduring all my questions.
 <br>
 
 The data used for the images below are generated with buildscripts in ThereminQ

@@ -12,11 +12,13 @@ Many, many thanks go out to the lead developers of Qrack and Bonsai for making t
 The data used for the images below are generated with buildscripts in ThereminQ
 - Qrack QFT, also used at runtime https://github.com/twobombs/thereminq/blob/master/buildscripts/maketipsy.sh
 - Sycamore 28q14d https://github.com/twobombs/thereminq/blob/master/buildscripts/supreme28q14d.sh 
+- Qrack Sycamore Spheres https://github.com/twobombs/thereminq/blob/master/buildscripts/sycamore_spheres.sh
 <br>
 
 Pre-cooked Tipsy files can be downloaded and explored with a Tipsy file format viewer
 - QFT24Qube15M.tar.gz : https://drive.google.com/file/d/1uMVGhYGk4anb66L1l0uYfmafHPaWB3A_
 - Sycamore28q14d10M.tar.gz : https://drive.google.com/file/d/1LghA6i_LsXSqCltaWRMRJ17Bhtfh30Fe
+- Qrack Sycamore Spheres : https://drive.google.com/file/d/149v-vurS9_m0vYPRfiQ3LxwXY7M6ktA8
 <br>
 [more to follow]
 

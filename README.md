@@ -24,7 +24,16 @@ Pre-cooked Tipsy files can be downloaded and explored with a Tipsy file format v
 
 <br>
 
-
+![Screenshot from 2022-02-06 16-15-20](https://user-images.githubusercontent.com/12692227/152690653-3a4bf449-ec45-4747-b20e-3c268dee0fe5.png)
+![Screenshot from 2022-02-06 16-14-32](https://user-images.githubusercontent.com/12692227/152690655-b373811c-2c15-410f-943f-ca54d63b14d6.png)
+![Screenshot from 2022-02-06 16-14-05](https://user-images.githubusercontent.com/12692227/152690656-d77307d6-6fe7-4e12-ae3a-2a7f8b33fa60.png)
+![Screenshot from 2022-02-06 16-13-35](https://user-images.githubusercontent.com/12692227/152690658-ebb14b72-12c4-4510-9a21-1dd1de7029b3.png)
+![Screenshot from 2022-02-06 16-11-28](https://user-images.githubusercontent.com/12692227/152690659-679c0268-9060-4a9f-b5d1-ccb43270d26f.png)
+![Screenshot from 2022-02-06 16-11-06](https://user-images.githubusercontent.com/12692227/152690661-4c161346-84b2-4f07-835e-fb7e280e91fc.png)
+![Screenshot from 2022-02-06 16-10-02](https://user-images.githubusercontent.com/12692227/152690663-3bf95ce7-7c67-42c9-b424-af09242ac4a3.png)
+![Screenshot from 2022-02-06 15-56-06](https://user-images.githubusercontent.com/12692227/152690664-98e1c17e-60ad-4e4d-b27e-3f21603542b7.png)
+![Screenshot from 2022-02-06 15-55-04](https://user-images.githubusercontent.com/12692227/152690666-2b34f1d0-e53a-4aac-ab33-f49ffe073bf9.png)
+![Screenshot from 2022-02-06 15-54-29](https://user-images.githubusercontent.com/12692227/152690667-f9b140b8-4459-420e-a961-e45190dcfd67.png)
 ![Screenshot from 2021-11-10 11-49-14](https://user-images.githubusercontent.com/12692227/141675931-191aa5c5-b91c-4cc9-9faf-dfc9df5b6dea.png)
 ![Screenshot from 2021-11-10 11-49-20](https://user-images.githubusercontent.com/12692227/141675933-7424d431-97a2-4338-8c2f-8d97e70381bf.png)
 ![Screenshot from 2021-11-10 13-48-40](https://user-images.githubusercontent.com/12692227/141675937-c2f2b520-8a52-4671-a55b-23a5515cc56e.png)

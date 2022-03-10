@@ -19,7 +19,7 @@ The data used for the images below are generated with buildscripts in ThereminQ
 <br>
 
 Pre-cooked Tipsy files can be downloaded and explored with a Tipsy file format viewer
-- QFT24Qube15M.tar.gz : https://drive.google.com/file/d/1uMVGhYGk4anb66L1l0uYfmafHPaWB3A_
+- QFT24Qube15M.tar.gz : https://drive.google.com/file/d/1uMVGhYGk4anb66L1l0uYfmafHPaWB3A_/view?usp=sharing
 - Sycamore28q14d10M.tar.gz : https://drive.google.com/file/d/1LghA6i_LsXSqCltaWRMRJ17Bhtfh30Fe
 - Qrack Sycamore Spheres : https://drive.google.com/file/d/149v-vurS9_m0vYPRfiQ3LxwXY7M6ktA8
 <br>

@@ -1,4 +1,7 @@
 # thereminq-graphs
+<img width="200" alt="ThereminQ" src="https://user-images.githubusercontent.com/12692227/147117984-86c4b4b6-d55d-41ba-aab8-f056a6403902.gif"> 
+
+[![ThereminQ data demo #1](http://img.youtube.com/vi/CgvKkK4-OlE/0.jpg)](https://youtu.be/CgvKkK4-OlE "ThereminQ data demo #1")
 
 This repo contains images made with 
 - TereminQ https://github.com/twobombs/thereminq

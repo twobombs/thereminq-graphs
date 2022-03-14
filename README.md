@@ -4,7 +4,7 @@
 [![ThereminQ data demo #1](http://img.youtube.com/vi/CgvKkK4-OlE/0.jpg)](https://youtu.be/CgvKkK4-OlE "ThereminQ data demo #1")
 
 This repo contains images made with 
-- TereminQ https://github.com/twobombs/thereminq
+- TereminQ-Bonsai https://github.com/twobombs/thereminq-bonsai
 
 Many, many thanks go out to the lead developers of Qrack and Bonsai for making this possible and for enduring all my questions.
 - Qrack https://github.com/vm6502q/qrack

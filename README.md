@@ -13,7 +13,7 @@ Many, many thanks go out to the lead developers of Qrack and Bonsai for making t
 <br>
 
 The data used for the images below are generated with buildscripts in ThereminQ
-- Qrack QFT, also used at runtime https://github.com/twobombs/thereminq/blob/master/buildscripts/maketipsy.sh
+- Qrack QFT, also used at runtime https://github.com/twobombs/thereminq/blob/master/buildscripts/makeqftipsy.sh
 - Sycamore 28q14d https://github.com/twobombs/thereminq/blob/master/buildscripts/supreme28q14d.sh 
 - Qrack Sycamore Spheres https://github.com/twobombs/thereminq/blob/master/buildscripts/sycamore_spheres.sh
 <br>

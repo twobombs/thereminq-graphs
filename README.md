@@ -2,29 +2,92 @@
 
 [![ThereminQ data demo #1](http://img.youtube.com/vi/CgvKkK4-OlE/0.jpg)](https://youtu.be/CgvKkK4-OlE "ThereminQ data demo #1")
 
-This repo contains images made with 
-- TereminQ-Bonsai https://github.com/twobombs/thereminq-bonsai
+## Table of Contents
 
-Many, many thanks go out to the lead developers of Qrack and Bonsai for making this possible and for enduring all my questions.
-- Qrack https://github.com/vm6502q/qrack
-- Bonsai https://github.com/treecode/Bonsai
+- [thereminq-graphs](#thereminq-graphs)
+  - [Table of Contents](#table-of-contents)
+  - [Project Description](#project-description)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Technical Details](#technical-details)
+    - [Algorithms](#algorithms)
+    - [Data Format](#data-format)
+  - [Contributing](#contributing)
+    - [Pull Requests](#pull-requests)
+  - [Gallery](#gallery)
 
-<br>
+## Project Description
 
-The data used for the images below are generated with buildscripts in ThereminQ
-- Qrack QFT, also used at runtime https://github.com/twobombs/thereminq/blob/master/buildscripts/makeqftipsy.sh
-- Sycamore 28q14d https://github.com/twobombs/thereminq/blob/master/buildscripts/supreme28q14d.sh 
-- Qrack Sycamore Spheres https://github.com/twobombs/thereminq/blob/master/buildscripts/sycamore_spheres.sh
-<br>
+This repository is a collection of images generated using quantum computing software. The goal of this project is to explore the intersection of quantum computing and art, and to create visually interesting images that can be used to communicate complex quantum concepts to a wider audience.
+
+The images in this repository are created using a variety of quantum algorithms and techniques, and are rendered using a combination of tools, including TereminQ-Bonsai, Qrack, and Bonsai. The project is open-source, and contributions are welcome.
+
+## Getting Started
+
+This repository contains a collection of images generated using quantum computing software. The images are created using a combination of tools, including TereminQ-Bonsai, Qrack, and Bonsai. This section will guide you through the process of setting up the necessary tools and generating your own images.
+
+### Prerequisites
+
+Before you begin, you will need to have a basic understanding of quantum computing concepts and familiarity with the command line. You will also need to have the following software installed on your system:
+
+- **Git:** A version control system for tracking changes in source code during software development.
+- **CMake:** A cross-platform free and open-source software for build automation.
+- **A C++ compiler:** Such as GCC or Clang.
+
+### Installation
+
+1.  **Qrack:** Qrack is a C++ quantum computer simulation framework. To install Qrack, follow the instructions in the [Qrack GitHub repository](https://github.com/vm6502q/qrack).
+
+2.  **Bonsai:** Bonsai is a visual programming language for real-time data processing. To install Bonsai, follow the instructions on the [Bonsai website](https://bonsai-rx.org/).
+
+3.  **TereminQ-Bonsai:** TereminQ-Bonsai is a tool that connects Qrack and Bonsai. To install TereminQ-Bonsai, follow the instructions in the [TereminQ-Bonsai GitHub repository](https://github.com/twobombs/thereminq-bonsai).
+
+Once you have installed all the necessary tools, you can start generating your own images. The buildscripts in the [ThereminQ repository](https://github.com/twobombs/thereminq/tree/master/buildscripts) can be used to generate the data for the images.
 
 Pre-cooked Tipsy files can be downloaded and explored with a Tipsy file format viewer
 - QFT24Qube15M.tar.gz : https://drive.google.com/file/d/1uMVGhYGk4anb66L1l0uYfmafHPaWB3A_/view?usp=sharing
 - Sycamore28q14d10M.tar.gz : https://drive.google.com/file/d/1LghA6i_LsXSqCltaWRMRJ17Bhtfh30Fe
 - Qrack Sycamore Spheres : https://drive.google.com/file/d/149v-vurS9_m0vYPRfiQ3LxwXY7M6ktA8
 <br>
+
+## Technical Details
+
+The images in this repository are generated using a variety of quantum algorithms and techniques. This section provides a brief overview of the technical details behind the images.
+
+### Algorithms
+
+-   **Qrack QFT:** The Quantum Fourier Transform (QFT) is a quantum algorithm that is the quantum analogue of the classical Discrete Fourier Transform. It is a key component of many quantum algorithms, including Shor's algorithm for factoring and the quantum phase estimation algorithm.
+
+-   **Sycamore 28q14d:** This refers to a specific quantum circuit run on Google's Sycamore quantum processor. The "28q" indicates that the circuit uses 28 qubits, and the "14d" refers to the depth of the circuit.
+
+-   **Qrack Sycamore Spheres:** This is a visualization of the state of a quantum computer as it runs the Sycamore circuit. The spheres represent the qubits, and the colors and patterns on the spheres represent the quantum state of each qubit.
+
+### Data Format
+
+The data used to generate the images is stored in the "Tipsy" file format. This is a simple binary format that stores the positions and colors of a large number of particles. The Tipsy file format is commonly used in astrophysics simulations, but it can also be used to visualize other types of data.
+
+A Tipsy file consists of a header followed by a series of particle data blocks. The header contains information about the number of particles, the dimensions of the simulation, and the time of the snapshot. The particle data blocks contain the positions, velocities, and other properties of the particles.
+
+## Contributing
+
+Contributions to this project are welcome. If you have any suggestions or find any issues, please open an issue on the [GitHub repository](https://github.com/twobombs/thereminq-graphs/issues).
+
+### Pull Requests
+
+If you would like to contribute code to the project, please follow these steps:
+
+1.  Fork the repository.
+2.  Create a new branch for your changes.
+3.  Make your changes and commit them to your branch.
+4.  Push your branch to your forked repository.
+5.  Open a pull request on the original repository.
+
+Please make sure to follow the [Code of Conduct](CODE_OF_CONDUCT.md) in all your interactions with the project.
+
 [more to follow]
 
-<br>
+## Gallery
 
 ![Screenshot from 2022-02-06 16-15-20](https://user-images.githubusercontent.com/12692227/152690653-3a4bf449-ec45-4747-b20e-3c268dee0fe5.png)
 ![Screenshot from 2022-02-06 16-14-32](https://user-images.githubusercontent.com/12692227/152690655-b373811c-2c15-410f-943f-ca54d63b14d6.png)

@@ -2,8 +2,6 @@
 
 # ThereminQ-graphs
 
-[![ThereminQ data demo #1](http://img.youtube.com/vi/CgvKkK4-OlE/0.jpg)](https://youtu.be/CgvKkK4-OlE "ThereminQ data demo #1")
-
 ## Table of Contents
 
 - [thereminq-graphs](#thereminq-graphs)

@@ -1,4 +1,6 @@
-# thereminq-graphs
+<img width="5978" height="1578" alt="468390747-272a9fdc-d924-4771-850c-d100f23562f6 (1)" src="https://github.com/user-attachments/assets/deb9ef61-dfa1-4687-b12e-c09e34d3ef71" />
+
+# ThereminQ-graphs
 
 [![ThereminQ data demo #1](http://img.youtube.com/vi/CgvKkK4-OlE/0.jpg)](https://youtu.be/CgvKkK4-OlE "ThereminQ data demo #1")
 
